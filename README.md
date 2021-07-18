@@ -1,2 +1,2 @@
-Project for Webscraping 
-Did not inmport the whole HTML to GitHub as it would take too much space
+Project for Webscraping --
+did not inmport the whole HTML to GitHub as it would take too much space
